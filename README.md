@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Abdulaziz 👋
 
-<!--
-**sulton0011/sulton0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Golang backend developer from Tashkent, Uzbekistan, focused on building scalable and efficient server-side applications. I’m passionate about system architecture, database design, and writing clean, maintainable code. I love working with Go to create robust services for real-world use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Go (Golang), Node.js, Filament PHP  
+- **Databases:** PostgreSQL, MongoDB
+- **Backend:** REST APIs, gRPC, Microservices  
+- **Tools & Platforms:** Docker, Git, JIRA, GitHub Actions, Linux  
+- **Others:** Redis, Kafka, MinIO, Firebase, OneID, MyGovUz integrations  
+
+---
+
+## 🚀 Featured Project
+
+- **[errs](https://github.com/sulton0011/errs)**  
+  A minimalistic and idiomatic error handling package for Go.  
+  Built to simplify how you create, wrap, and handle errors in your Go applications.  
+  Includes stack trace support, custom error codes.
+
+---
+
+## 📫 Let’s Connect
+
+| 📱 Telegram | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
+| :--------: | :---------: | :-------: | :------: |
+| [@AbdulazizKamilovUz](https://t.me/AbdulazizKamilovUz) | [Abdulaziz Kamilov](https://www.linkedin.com/in/abdulaziz-kamilov-303a29220) | [@sulton0011](https://github.com/sulton0011) | [azizxonkom@gmail.com](mailto:azizxonkom@gmail.com) |
+
+---
+
+> *Let’s build something great, one Go routine at a time.*
