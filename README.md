@@ -25,9 +25,9 @@ I'm a Golang backend developer from Tashkent, Uzbekistan, focused on building sc
 
 ## 📫 Let’s Connect
 
-| 📱 Telegram | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
-| :--------: | :---------: | :-------: | :------: |
-| [@AbdulazizKamilovUz](https://t.me/AbdulazizKamilovUz) | [Abdulaziz Kamilov](https://www.linkedin.com/in/abdulaziz-kamilov-303a29220) | [@sulton0011](https://github.com/sulton0011) | [azizxonkom@gmail.com](mailto:azizxonkom@gmail.com) |
+| 📱 Telegram | 💼 LinkedIn | 🐙 GitHub | 📧 Email | 📱 X |
+| :--------: | :---------: | :-------: | :------: | :------: |
+| [@AbdulazizKamilovUz](https://t.me/AbdulazizKamilovUz) | [Abdulaziz Kamilov](https://www.linkedin.com/in/abdulaziz-kamilov-303a29220) | [@sulton0011](https://github.com/sulton0011) | [azizxonkom@gmail.com](mailto:azizxonkom@gmail.com) | [@kamilovUz](https://x.com/kailovUz) |
 
 ---
 
